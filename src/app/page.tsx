@@ -53,7 +53,7 @@ export default function Home() {
       {/* Title Card */}
       <div className="w-full max-w-5xl bg-[#EFECE6] border-3 border-border shadow-shadow px-6 py-4 text-center">
         <h1 className="text-4xl lg:text-5xl font-bold uppercase text-primary tracking-tight">
-          Laurence's Tic-Tac-Toe Game
+          {" Laurence's Tic-Tac-Toe Game"}
         </h1>
       </div>
 
@@ -91,10 +91,10 @@ export default function Home() {
       <div className="text-center space-y-2">
         <div className="flex flex-wrap justify-center gap-2 text-sm text-muted-foreground">
           <span className="px-3 py-1 shadow-shadow border-3 text-[#0C0D0E] bg-emerald-500 border-border">
-            Next.js
+            Next.js 15
           </span>
           <span className="px-3 py-1 shadow-shadow border-3 text-[#0C0D0E] bg-emerald-500 border-border">
-            React
+            React 19
           </span>
           <span className="px-3 py-1 shadow-shadow border-3 text-[#0C0D0E] bg-emerald-500 border-border">
             Tailwind CSS
